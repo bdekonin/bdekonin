@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bob</h1>
 <h3 align="center">A passionate software development student from the netherlands</h3>
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/bdekonin/ft_transcendence)
-
 - 👨‍💻 All of my projects are available at [https://github.com/bdekonin](https://github.com/bdekonin)
 
 - 💬 Ask me about **C, C++, Cyber security**
