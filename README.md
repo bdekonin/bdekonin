@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bdekonin](https://github.com/bdekonin)
 
-- 💬 Ask me about **C, C++, Cyber security**
+- 💬 Ask me about **AWS, Typescript, C, C++, Cyber security**
 
 - 📫 How to reach me **radekonink@gmail.com**
 
