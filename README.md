@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **radekonink@gmail.com**
 
-- ⚡ Fun fact **I like food**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bob-de-konink-721029164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bob-de-konink-721029164" height="30" width="40" /></a>
